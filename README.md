@@ -1,0 +1,2 @@
+newscode.github.com
+===================
